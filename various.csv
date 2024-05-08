@@ -1,79 +1,79 @@
 co-note >>> > [!note]\n> ,Memo
 
-co-storm >>> > [!storms], yellow with cloud,callstorm
+> [!storms]\n,yellow with cloud,callstorm
 
->[!wideview], pink with eye,callwideview
+>[!wideview]\n,pink with eye,callwideview
 
->[!nature], green with leaf,callnature
+>[!nature]\n,green with leaf,callnature
 
->[!luminance], yellow-white with sun, callluminance
+>[!luminance]\n,yellow-white with sun,callluminance
 
->[!void], purple with void icon, callvoid
+>[!void]\n,purple with void icon,callvoid
 
->[!ocean], turquoise with wave line, callocean
+>[!ocean]\n,turquoise with wave line,callocean
 
->[!footprint], orange with footprints, callfootprint
+>[!footprint]\n,orange with footprints,callfootprint
 
->[!personality], pink with two hearts, callpersonality
+>[!personality]\n,pink with two hearts,callpersonality
 
->[!flying], light green with wing, callflying
+>[!flying]\n,light green with wing,callflying
 
->[!uses], yellow with axe chopping, calluses
+>[!uses]\n,yellow with axe chopping,calluses
 
->[!castle], yellow with castle shield, callcastle
+>[!castle]\n,yellow with castle shield,callcastle
 
->[!love], pink with two hearts overlapping, calllove
+>[!love]\n,pink with two hearts overlapping,calllove
 
->[!town], purple with house, calltown
+>[!town]\n,purple with house,calltown
 
->[!tavern], blue with tankard, calltavern
+>[!tavern]\n,blue with tankard,calltavern
 
->[!arcana], pink with star wand, callarcana
+>[!arcana]\n,pink with star wand,callarcana
 
->[!mystical], dark blue with moon and stars, callarcana
+>[!mystical]\n,dark blue with moon and stars,callarcana
 
->[!map-location], pink with unfolded map and pin, callmaplocation
+>[!map-location]\n,pink with unfolded map and pin,callmaplocation
 
->[!port], dark blue with sailboat, callport
+>[!port]\n,dark blue with sailboat,callport
 
->[!monster], purple with monster skull, callmonster
+>[!monster]\n,purple with monster skull,callmonster
 
->[!identity], pink with eye mask, callidentity
+>[!identity]\n,pink with eye mask,callidentity
 
->[!star], dark orange with single star, callstar
+>[!star]\n,dark orange with single star,callstar
 
->[!alchemy], purple with filled vial, callalchemy
+>[!alchemy]\n,purple with filled vial,callalchemy
 
->[!battles], orange with two crossing swords, callbattles
+>[!battles]\n,orange with two crossing swords,callbattles
 
->[!treasure], yellow with treasure map, calltreasure
+>[!treasure]\n,yellow with treasure map,calltreasure
 
->[!crown], purple with crown, callcrown
+>[!crown]\n,purple with crown,callcrown
 
->[!mineral], blue with diamond, callmineral
+>[!mineral]\n,blue with diamond,callmineral
 
->[!beast], orange animal paw, callbeast
+>[!beast]\n,orange animal paw,callbeast
 
->[!fire], red with fire, callfire
+>[!fire]\n,red with fire,callfire
 
->[!water], blue water drop, callwater
+>[!water]\n,blue water drop,callwater
 
->[!earth], brown with ingot, callearth
+>[!earth]\n,brown with ingot,callearth
 
->[!physical], orange with flexing man, callphysical
+>[!physical]\n,orange with flexing man,callphysical
 
->[!spiritual], blue triangle symbol, callspiritual
+>[!spiritual]\n,blue triangle symbol,callspiritual
 
->[!time], white clock, calltime
+>[!time]\n,white clock,calltime
 
->[!kaen], orange fox icon, callkaen
+>[!kaen]\n,orange fox icon,callkaen
 
->[!fish], blue with fish, callfish
+>[!fish]\n,blue with fish,callfish
 
->[!rune], blue with runed rock, callrune
+>[!rune]\n,blue with runed rock,callrune
 
->[!scroll], pink with scroll, callscroll
+>[!scroll]\n,pink with scroll,callscroll
 
->[!egg], white with egg, callegg
+>[!egg]\n,white with egg,callegg
 
->[!sunset], yellow with sun setting on water, callsunset
+>[!sunset]\n,yellow with sun setting on water,callsunset
